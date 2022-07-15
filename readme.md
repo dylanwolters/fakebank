@@ -8,6 +8,8 @@ The user can log in with an email address, password
 The email address or username appears at the top right corner when logged in
 The user can log out of the account
 
+Add protected routes - withdraw and deposit are only available if logged in
+
 The user can deposit money
 The balance updates according to deposit
 Information persists across log ins
